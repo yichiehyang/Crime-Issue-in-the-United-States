@@ -1,6 +1,6 @@
 # Crime Issue in the United States
 
-My proposed project is focused on criminal incidence in the United States.   
+My project is focused on criminal incidence in the United States.   
 In this project, I would try to find out which state may have the highest crime rate and to know the factors of the high crime rate. After reading some pieces of information about criminality in the United States, I suggested that the unemployment rate and educational level may be the two main factors that influence the criminal rate.
 
 ### Data Sources
